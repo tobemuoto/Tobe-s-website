@@ -1,8 +1,7 @@
 <html>
 <body>
 
-You want <?php echo $_GET["name"]; ?><br>
-Your email address is: <?php echo $_GET["email"]; ?>
+You want <?php echo $_GET["Twix"]; ?> twixes<br>
 
 </body>
 </html>
